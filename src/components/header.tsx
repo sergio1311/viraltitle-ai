@@ -16,7 +16,7 @@ export function Header() {
       <div className="container flex h-16 items-center justify-between">
         <div className="flex items-center gap-2">
           <Sparkles className="h-6 w-6 text-blue-500" />
-          <span className="text-xl font-bold gradient-text">ViralTitle AI</span>
+          <span className="text-xl font-bold gradient-text">ViralTitle IA</span>
         </div>
 
         <nav className="hidden md:flex items-center gap-6">
